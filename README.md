@@ -4,10 +4,6 @@
 
 I'm a passionate AI/ML Engineer who has hands-on experience working in Machine Learning, Deep Learning, Data Processing, and Natural Language Processing. I'm also interested in Web Developing. I'm an expert in Python programming language. 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MahmudulHasanShakill)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmudulHasanShakill)](https://github.com/anuraghazra/github-readme-stats)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmudul-hasan-shakill&label=Profile%20views&color=0e75b6&style=flat" alt="mahmudul-hasan-shakill" /> </p>
 
 <h3 align="left">Connect with me:</h3>
