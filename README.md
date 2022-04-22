@@ -1,5 +1,12 @@
+![](https://drive.google.com/file/d/14bhpAk6ANFE5lBEA2ziRP8jcM3DcREou/view?usp=sharing)
 <h1 align="center">Hi 👋, I'm Mahmudul Hasan Shakil</h1>
 <h3 align="center">A passionate AI/ML Engineer and a novice Web Developer from Bangladesh.</h3>
+
+I'm a passionate AI/ML Engineer who has hands-on experience working in Machine Learning, Deep Learning, Data Processing, and Natural Language Processing. I'm also interested in Web Developing. I'm an expert in Python programming language. 
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MahmudulHasanShakill)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmudulHasanShakill)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmudul-hasan-shakill&label=Profile%20views&color=0e75b6&style=flat" alt="mahmudul-hasan-shakill" /> </p>
 
