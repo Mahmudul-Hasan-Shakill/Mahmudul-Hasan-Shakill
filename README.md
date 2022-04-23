@@ -10,6 +10,7 @@ I'm a passionate AI/ML Engineer who has hands-on experience working in Machine L
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://github.com/Mahmudul-Hasan-Shakill/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="Mahmudul-Hasan-Shakill" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mahmudul-hasan-648730169" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmudul-hasan-648730169" height="30" width="40" /></a>
 <a href="https://fb.com/pledators.shakil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pledators.shakil" height="30" width="40" /></a>
 </p>
